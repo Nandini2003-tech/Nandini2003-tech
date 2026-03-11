@@ -13,7 +13,7 @@ Currently learning and improving my skills in **HTML, CSS, and JavaScript**.
 ## 📌 Projects
 
 ### ☕ Coffee Ordering Website
-A responsive coffee ordering interface where users can view coffee options and place orders easily.
+A responsive coffee ordering interface with Add to Cart functionality, Users can view coffee options and place orders easily.
 
 ### ✅ Task Tracker App
 A  Task Tracker application that allows users to add, edit, delete, and manage daily tasks.
