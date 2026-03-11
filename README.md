@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nandini 👋
 
-<!--
-**Nandini2003-tech/Nandini2003-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner Aspiring **Frontend Developer** passionate about building interactive and user-friendly web applications.
+Currently learning and improving my skills in **HTML, CSS, and JavaScript**.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* DOM Manipulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+### ☕ Coffee Ordering Website
+A responsive coffee ordering interface where users can view coffee options and place orders easily.
+
+### ✅ Task Tracker App
+A  Task Tracker application that allows users to add, edit, delete, and manage daily tasks.
+It also includes search, filters, dashboard and localStorage support.
+
+## 🌱 Currently Learning
+* Advanced JavaScript
+* Improving UI/UX design
+* Building more frontend projects
+
+## 📫 Connect with me
+* GitHub: https://github.com/Nandini2003-tech
+* LinkedIn: https://www.linkedin.com/in/nandini-t-35a125346
+
+⭐ I enjoy learning new technologies and building small projects to improve my frontend development skills.
