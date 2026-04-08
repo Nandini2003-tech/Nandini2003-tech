@@ -1,7 +1,7 @@
 # Hi, I'm Nandini 👋
 
 I am a beginner Aspiring **Frontend Developer** passionate about building interactive and user-friendly web applications.
-Currently learning and improving my skills in **HTML, CSS, and JavaScript**.
+Currently learning and improving my skills in **HTML,CSS,JavaScript and React**.
 
 ## 🚀 Skills
 * HTML5
@@ -9,6 +9,8 @@ Currently learning and improving my skills in **HTML, CSS, and JavaScript**.
 * JavaScript
 * Responsive Web Design
 * DOM Manipulation
+* React
+* Tailwindcss
 
 ## 📌 Projects
 
@@ -21,6 +23,8 @@ It also includes search, filters, dashboard and localStorage support.
 
 ## 🌱 Currently Learning
 * Advanced JavaScript
+* Basics of React
+* Tailwindcss
 * Improving UI/UX design
 * Building more frontend projects
 
