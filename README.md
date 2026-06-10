@@ -1,35 +1,53 @@
 # Hi, I'm Nandini 👋
 
-I am a beginner Aspiring **Frontend Developer** passionate about building interactive and user-friendly web applications.
-Currently learning and improving my skills in **HTML,CSS,JavaScript and React**.
+I am an aspiring Web Developer passionate about building responsive and user-friendly web applications. I enjoy learning new technologies and creating projects that help me improve my development skills.
 
 ## 🚀 Skills
+
 * HTML5
 * CSS3
 * JavaScript
+* Bootstrap
+* PHP
+* MySQL
 * Responsive Web Design
 * DOM Manipulation
-* React
-* Tailwindcss
+* Git & GitHub
 
 ## 📌 Projects
 
-### ☕ Coffee Ordering Website
-A responsive coffee ordering interface with Add to Cart functionality, Users can view coffee options and place orders easily.
+### 🎓 Student Management System
 
-### ✅ Task Tracker App
-A  Task Tracker application that allows users to add, edit, delete, and manage daily tasks.
-It also includes search, filters, dashboard and localStorage support.
+A web-based Student Management System developed using PHP, MySQL and Bootstrap.
+
+**Features:**
+
+* Admin Login Authentication
+* Add, Update and Delete Student Records
+* MySQL Database Integration
+* Responsive User Interface
+* CRUD Operations
+
+### ☕ Coffee Shop Website
+
+A responsive coffee shop website built using HTML, CSS and JavaScript.
+
+**Features:**
+
+* Modern and Responsive Design
+* Interactive User Interface
+* Order Form Validation
+* Mobile-Friendly Layout
 
 ## 🌱 Currently Learning
-* Advanced JavaScript
-* Basics of React
-* Tailwindcss
-* Improving UI/UX design
-* Building more frontend projects
 
-## 📫 Connect with me
+* Advanced JavaScript
+* Backend Development Concepts
+* Building Real-World Projects
+
+## 📫 Connect With Me
+
 * GitHub: https://github.com/Nandini2003-tech
 * LinkedIn: https://www.linkedin.com/in/nandini-t-35a125346
 
-⭐ I enjoy learning new technologies and building small projects to improve my frontend development skills.
+⭐ Always learning, building and improving as a developer.
